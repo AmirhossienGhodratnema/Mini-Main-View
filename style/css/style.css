@@ -1,0 +1,13 @@
+body {
+    text-align: right;
+    direction: rtl;
+    font-family: vazir;
+}
+
+.box-shadow {
+    box-shadow: 0rem -5rem 4.25rem 3.05rem;
+}
+
+.fwp {
+    font-weight: 300;
+}
